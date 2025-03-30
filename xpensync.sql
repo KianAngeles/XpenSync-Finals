@@ -170,7 +170,7 @@ CREATE TABLE `users` (
 
 INSERT INTO `users` (`id`, `name`, `email`, `phone`, `password`, `created_at`, `verification_code`, `is_verified`) VALUES
 (68, 'User', 'user@gmail.com', '9245657856', '$2y$10$JkvQ00olAxMBVQBUJ6kZp.rNtv0v5K7OChUeVvR04uAq8ZEFWDC2.', '2023-04-12 10:31:16', '', 1),
-(74, 'kians', 'loljoblol30@gmail.com', '929 641 8227', '$2y$10$uaUUjo3WeZyjhjIhfCY6ZOYaEq1Bj0uDZjCMZRIW33HH6kOFXZOV2', '2025-03-20 02:00:56', '654321', 1),
+(74, 'kians', 'angeleskiancharles@gmail.com', '929 641 8227', '$2y$10$uaUUjo3WeZyjhjIhfCY6ZOYaEq1Bj0uDZjCMZRIW33HH6kOFXZOV2', '2025-03-20 02:00:56', '654321', 1),
 (75, 'Kian Charles', 'loljoblol20@gmail.com', '929 641 8227', '$2y$10$edQb.TLLdmq7rez7dsVNE.XHLpG55Nb2IIuyP4aDs1Ac5ijDCXaiO', '2025-03-23 00:31:18', '', 1),
 (76, 'testuser', 'loljoblol10@gmail.com', '9296418232', '$2y$10$SbzwiTi50OS88xddIZZylOgNyhQvE7LxUqicdYbYUe3U3LXoBwj4S', '2025-03-24 02:46:17', '211276', 1),
 (77, 'test1', 'angeleskian09@gmail.com', '9296418227', '$2y$10$6rF7BooxftZ8y6KhPfES6OoMkJ9RkXcgGRzwAxjjHq0DGRyFYhKB2', '2025-03-26 00:04:44', '788735', 1);
